@@ -1,0 +1,248 @@
+[
+  {
+    "country": "Ukraine",
+    "name": "Kremenchuk",
+    "lat": "49.1",
+    "lng": "33.42041"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Kyiv",
+    "lat": "50.45466",
+    "lng": "30.5238"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Poltava",
+    "lat": "49.59373",
+    "lng": "34.54073"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Sumy",
+    "lat": "50.9216",
+    "lng": "34.80029"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Lviv",
+    "lat": "49.83826",
+    "lng": "24.02324"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Cherkasy",
+    "lat": "49.42854",
+    "lng": "32.06207"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Dnipro",
+    "lat": "48.4593",
+    "lng": "35.03865"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Rivne",
+    "lat": "50.62308",
+    "lng": "26.22743"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Lutsk",
+    "lat": "50.75932",
+    "lng": "25.34244"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Kherson",
+    "lat": "46.65581",
+    "lng": "32.6178"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Zhytomyr",
+    "lat": "50.26487",
+    "lng": "28.67669"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Zaporizhia",
+    "lat": "47.82289",
+    "lng": "35.19031"
+  },
+  {
+    "country": "Ukraine",
+    "name": "Vinnytsia",
+    "lat": "49.23278",
+    "lng": "28.48097"
+  },
+  {
+    "country": "Spain",
+    "name": "Madrid",
+    "lat": "40.4165",
+    "lng": "-3.70256"
+  },
+  {
+    "country": "Spain",
+    "name": "Barcelona",
+    "lat": "41.38879",
+    "lng": "2.15899"
+  },
+  {
+    "country": "Italy",
+    "name": "Milan",
+    "lat": "45.46427",
+    "lng": "9.18951"
+  },
+  {
+    "country": "Italy",
+    "name": "Rome",
+    "lat": "41.89193",
+    "lng": "12.51133"
+  },
+  {
+    "country": "Germany",
+    "name": "Berlin",
+    "lat": "52.52437",
+    "lng": "13.41053"
+  },
+  {
+    "country": "England",
+    "name": "London",
+    "lat": "51.50853",
+    "lng": "-0.12574"
+  },
+  {
+    "country": "England",
+    "name": "Liverpool",
+    "lat": "53.41058",
+    "lng": "-2.97794"
+  },
+  {
+    "country": "Poland",
+    "name": "Warsaw",
+    "lat": "52.22977",
+    "lng": "21.01178"
+  },
+  {
+    "country": "USA",
+    "name": "New York",
+    "lat": "40.71427",
+    "lng": "-74.00597"
+  },
+  {
+    "country": "USA",
+    "name": "Los Angeles",
+    "lat": "34.05223",
+    "lng": "-118.24368"
+  },
+  {
+    "country": "USA",
+    "name": "Chicago",
+    "lat": "41.85003",
+    "lng": "-87.65005"
+  },
+  {
+    "country": "USA",
+    "name": "Miami",
+    "lat": "33.39922",
+    "lng": "-110.86872"
+  },
+  {
+    "country": "UAE",
+    "name": "Dubai",
+    "lat": "25.0657",
+    "lng": "55.17128"
+  },
+  {
+    "country": "Turkey",
+    "name": "Antalya",
+    "lat": "36.90812",
+    "lng": "30.69556"
+  },
+  {
+    "country": "Turkey",
+    "name": "Kemer",
+    "lat": "37.35222",
+    "lng": "30.06306"
+  },
+  {
+    "country": "Turkey",
+    "name": "Alanya",
+    "lat": "36.54375",
+    "lng": "31.99982"
+  },
+  {
+    "country": "Egypt",
+    "name": "Hurghada",
+    "lat": "27.25738",
+    "lng": "33.81291"
+  },
+  {
+    "country": "Egypt",
+    "name": "Sharm el-Sheikh",
+    "lat": "27.91582",
+    "lng": "34.32995"
+  },
+  {
+    "country": "Egypt",
+    "name": "Cairo",
+    "lat": "30.06263",
+    "lng": "31.24967"
+  },
+  {
+    "country": "Singapore",
+    "name": "Singapore",
+    "lat": "1.28967",
+    "lng": "103.85007"
+  },
+  {
+    "country": "France",
+    "name": "Paris",
+    "lat": "35.29203",
+    "lng": "-93.72992"
+  },
+  {
+    "country": "Monaco",
+    "name": "Monaco",
+    "lat": "43.73333",
+    "lng": "7.41667"
+  },
+  {
+    "country": "Bulgaria",
+    "name": "Sofia",
+    "lat": "42.69751",
+    "lng": "23.32415"
+  },
+  {
+    "country": "Austria",
+    "name": "Vienna",
+    "lat": "32.09156",
+    "lng": "-83.79545"
+  },
+  {
+    "country": "Latvia",
+    "name": "Riga",
+    "lat": "56.946",
+    "lng": "24.10589"
+  },
+  {
+    "country": "Lithuania",
+    "name": "Kaunas",
+    "lat": "54.90272",
+    "lng": "23.90961"
+  },
+  {
+    "country": "Norway",
+    "name": "Oslo",
+    "lat": "59.91273",
+    "lng": "10.74609"
+  },
+  {
+    "country": "Azerbaijan",
+    "name": "Baku",
+    "lat": "40.37767",
+    "lng": "49.89201"
+  }
+]
